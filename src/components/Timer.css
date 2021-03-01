@@ -1,0 +1,16 @@
+.Timer {
+  height: 100vh;
+  width: 100vw;
+  background-color: black;
+  display: flex;
+  flex-direction: column-reverse;
+  justify-content: center;
+}
+.Timer--expired {
+  background-color: crimson;
+}
+
+.Timer__sand {
+  background-color: white;
+  margin: 0 5%;
+}
